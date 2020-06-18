@@ -1,0 +1,6 @@
+Python 3.6 and Tensorflow 1.12 version are being used. 
+After training is done, chatting with the bot will start.
+The accuracy is low so the replies might not be accurate.
+
+Work done by : Nitin Meena 
+email : meenanitin0@gmail.com
